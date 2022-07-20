@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/asmaaadel_0" target="blank"><img src="https://img.shields.io/twitter/follow/asmaaadel_0?logo=twitter&style=for-the-badge" alt="asmaaadel_0" /></a> </p>
 
-- 🌱 I’m currently learning **web development, Vue js**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **asmaaaadel00@gmail.com**
 
