@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asmaa</h1>
 <h3 align="center">Computer Engineering Student at Faculty of Engineering Cairo University</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/2a/ee/e42aee5d3430770051c4c92eb3b7f3d2.gif">
+<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/e4/2a/ee/e42aee5d3430770051c4c92eb3b7f3d2.gif](https://user-images.githubusercontent.com/105747069/168908389-6829dfa4-3b6b-4978-a2d7-55c8bf32783e.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaaadel0&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaadel0" /> </p>
 
 
