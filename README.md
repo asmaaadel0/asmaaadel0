@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **web development, embedded system**
 
 - 📫 How to reach me **asmaaaadel00@gmail.com**
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asmaaadel_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmaaadel_0" height="30" width="40" /></a>
