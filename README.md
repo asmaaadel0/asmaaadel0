@@ -5,7 +5,7 @@ align="center">Computer Engineering Student at Faculty of Engineering Cairo Univ
 <img
 align="center" dir="auto"
 alt="coding"
-height="400"
+height="270"
 width="500px" src="https://user-images.githubusercontent.com/105747069/168908389-6829dfa4-3b6b-4978-a2d7-55c8bf32783e.gif">
 </p>
 
