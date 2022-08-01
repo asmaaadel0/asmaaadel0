@@ -5,7 +5,8 @@ align="center">Computer Engineering Student at Faculty of Engineering Cairo Univ
 <img
 align="center" dir="auto"
 alt="coding"
-width="400px" src="https://user-images.githubusercontent.com/105747069/168908389-6829dfa4-3b6b-4978-a2d7-55c8bf32783e.gif">
+height="400"
+width="500px" src="https://user-images.githubusercontent.com/105747069/168908389-6829dfa4-3b6b-4978-a2d7-55c8bf32783e.gif">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asmaaadel0&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaadel0" /> </p>
