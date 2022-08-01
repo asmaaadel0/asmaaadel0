@@ -29,7 +29,7 @@ width="70%" src="main.gif">
 
 # <img src="aboutme.gif" width="50" draggable="false" > About me
 
-- ⭐ Software Engineering Fellowship <a href="https://fellowship.mlh.io/"> @Data Gear Fellowship</a>.
+- ⭐ Software Engineering Internship <a href="https://www.datagearbi.com/"> @Data Gear Internship</a>.
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>.
 - 🏃‍♂️ I am passionate about Front-End, Embedded System
 - 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/clean-code-a/9780136083238/"> "Clean Code: A Handbook of Agile Software Craftsmanship" </a> by Robert C. Martin.
