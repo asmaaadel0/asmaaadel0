@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Asmaa!](https://www.linkedin.com/in/asmaa-adel-078408200/) 
+# Hey <img src="wave.gif" width="40px" height="40px">, I'm [Asmaa!](https://www.linkedin.com/in/asmaa-adel-078408200/) 
 <h3 
 align="center">Computer Engineering Student at Faculty of Engineering Cairo University</h3>
 <p align="center">
