@@ -15,7 +15,7 @@ width="70%" src="main.gif">
 
 </p> -->
 
-# <img src="contact.gif" width="40px" height="40px"> Connect with me:
+# <img src="contact.gif" width="40px" height="40px" draggable="false"> Connect with me:
 <p align="left">
 <!-- <a href="https://twitter.com/asmaaadel_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmaaadel_0" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/asmaa-adel-078408200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaa-adel-078408200" height="30" width="40" /></a>
