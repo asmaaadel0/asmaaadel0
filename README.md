@@ -86,8 +86,12 @@ width="70%" src="main.gif">
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel0&show_icons=true&locale=en&layout=compact" alt="asmaaadel0" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmaaadel0&show_icons=true&locale=en" alt="asmaaadel0" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=asmaaadel0&show_icons=true&theme=radical&count_private=true" alt="asmaaadel0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaadel0&" alt="asmaaadel0" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaadel0&count_private=true&theme=radical" alt="asmaaadel0" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaadel0&theme=radical" alt="asmaaadel0" /></p>
+  
+ </div> 
