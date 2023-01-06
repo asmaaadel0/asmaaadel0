@@ -27,7 +27,11 @@ width="70%" src="main.gif">
 </p>
 
 
-# <img src="aboutme.gif" width="50" draggable="false" > About me
+<!-- # <img src="aboutme.gif" width="50" draggable="false" > About me -->
+
+---
+
+# :woman_technologist: About me
 
 - ⭐ Software Engineering Internship <a href="https://www.datagearbi.com/"> @Data Gear</a>.
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>.
