@@ -44,8 +44,9 @@ width="70%" src="main.gif">
 - 🍀 Ask me about anything, I will be happy to help.
 
 
+---
 
-# 🧰 My Skills
+# :hammer_and_wrench: My Skills
 
 <div align="center">
 
