@@ -90,8 +90,8 @@ width="70%" src="main.gif">
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=asmaaadel0&show_icons=true&theme=radical&count_private=true" alt="asmaaadel0" /></p>
 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaadel0&theme=radical" alt="asmaaadel0" /></p>  
+  
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaadel0&count_private=true&theme=radical" alt="asmaaadel0" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaadel0&theme=radical" alt="asmaaadel0" /></p>
   
  </div> 
