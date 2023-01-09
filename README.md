@@ -32,7 +32,7 @@ width="70%" src="main.gif">
 
 ---
 
-# :woman_technologist: About me
+# :woman_technologist: About me:
 
 - ⭐ Software Engineering Internship <a href="https://www.datagearbi.com/"> @Data Gear</a>.
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>.
@@ -46,7 +46,7 @@ width="70%" src="main.gif">
 
 ---
 
-# :hammer_and_wrench: My Skills
+# :hammer_and_wrench: My Skills:
 
 <div align="center">
 
@@ -84,7 +84,7 @@ width="70%" src="main.gif">
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 <div align="center">
 
@@ -95,7 +95,7 @@ width="70%" src="main.gif">
 </div>   
 
 ---
-### :writing_hand: Most Used Languages  
+### :writing_hand: Most Used Languages:
 
 <div align="center">
   
