@@ -65,6 +65,7 @@ width="70%" src="main.gif">
   
 <br />
 
+<code><img src="https://logos-download.com/wp-content/uploads/2019/01/Golang_Logo.png" alt="Go" width="40" height="40" /></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></code>
 <code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40" /></code>
