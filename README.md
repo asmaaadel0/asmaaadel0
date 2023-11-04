@@ -51,8 +51,10 @@ width="70%" src="main.gif">
 <div align="center">
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://seeklogo.com/images/V/vuetify-logo-CC59D65FD3-seeklogo.com.png"></code>
 <code><img height="40" width="40" title="React.js" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/icons/react.svg"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="40"/></code>
+<code><img height="40" src="https://th.bing.com/th/id/OIP.maKe3jXsLd8flovNsX2_3QAAAA?pid=ImgDet&rs=1"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -61,7 +63,6 @@ width="70%" src="main.gif">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Pyhton" width="40" height="40" /></code>  
   
 <br />
 
@@ -75,6 +76,7 @@ width="70%" src="main.gif">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" /></code>
 <code><img src="https://miro.medium.com/max/1400/0*0XnmF8Bpqd4RVaOW.png" alt="assembly" width="40" height="40" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Pyhton" width="40" height="40" /></code>  
 
 <br />
   
