@@ -90,19 +90,29 @@ width="70%" src="main.gif">
 
 ### :fire: My Stats:
 
+
+
 <div align="center">
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=asmaaadel0&show_icons=true&theme=radical&count_private=true" alt="asmaaadel0" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmaaadel0&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmaaadel0&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmaaadel0&theme=jolly)
+![](https://github-readme-stats.vercel.app/api?username=asmaaadel0&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmaaadel0&theme=jolly&utcOffset=8)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaadel0&theme=radical" alt="asmaaadel0" /></p>  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaadel0&theme=jolly" alt="asmaaadel0" /></p>  
 
-</div>   
+
+<!--- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HalaHamdi&theme=jolly)
+
+![](https://github-readme-streak-stats.herokuapp.com/?username=asmaaadel0&theme=jolly&utcOffset=8)
+-->
 
 ---
-### :writing_hand: Most Used Languages:
+<!--- ### :writing_hand: Most Used Languages:
 
 <div align="center">
   
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaadel0&count_private=true&theme=radical" alt="asmaaadel0" /></p>
 
-</div> 
+</div>  -->
